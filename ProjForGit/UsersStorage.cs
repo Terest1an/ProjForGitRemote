@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjForGit
 {
-    internal class BooksStorage
+    internal class UsersStorage
     {
     }
 }

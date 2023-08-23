@@ -8,6 +8,7 @@ namespace ProjForGit
             // изменение для подзадачи1
             Console.WriteLine("Hello, World!");
             // изменение для подзадачи2
+            // изменение для подзадачи3
         }
     }
 }
