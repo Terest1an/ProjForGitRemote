@@ -8,5 +8,6 @@ namespace ProjForGit
 {
     internal class User
     {
+        //as
     }
 }
