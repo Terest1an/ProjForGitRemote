@@ -8,7 +8,7 @@ namespace ProjForGit
 {
     internal class User
     {
-        //assadasd
+        //assadasdsdd
         ConsoleColor color;
     }
 }
