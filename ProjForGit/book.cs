@@ -8,6 +8,6 @@ namespace ProjForGit
 {
     internal class book
     {
-        //123123dasdsdd
+        //123123dasd
     }
 }
