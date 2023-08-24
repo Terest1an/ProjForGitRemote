@@ -13,7 +13,6 @@ namespace ProjForGit
             Console.WriteLine("Hello World!");
             //sumtask_1 changes
             //sumtask_2 changes
-            // изменения не в той ветке
         }
     }
 }
