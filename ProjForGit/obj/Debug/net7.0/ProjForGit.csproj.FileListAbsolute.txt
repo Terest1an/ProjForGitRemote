@@ -1,0 +1,14 @@
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\bin\Debug\net7.0\ProjForGit.exe
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\bin\Debug\net7.0\ProjForGit.deps.json
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\bin\Debug\net7.0\ProjForGit.runtimeconfig.json
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\bin\Debug\net7.0\ProjForGit.dll
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\bin\Debug\net7.0\ProjForGit.pdb
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.dll
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\refint\ProjForGit.dll
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.pdb
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ProjForGit.genruntimeconfig.cache
+C:\Users\Андрей\source\repos\ProjForGit\ProjForGit\obj\Debug\net7.0\ref\ProjForGit.dll
